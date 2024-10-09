@@ -12,3 +12,5 @@ CalcularInteresesSimple: En este algoritmo logre hacer que el usuario logra calc
 Dados: En este algoritmo logre hacer que se muestre en la pantalla un semi dibujo de un dado, en este puede caer de diferentes maneraas haciendo que el numero que salga sea alatorio.
 
 Ejercicio 11-Mateo Alex Guzñay Proaño 9noA: En este algoritmo logre hacer que cuando el usuario ingrese un numero el codigo detecte por si esta en el rango de 10-20.
+
+Ejercicio5 Mateo 9no A: En este algoritmo logre hacer que cuando el usuario ingrese un numero puede ser positivo como negativo, el algoritmo detecte cual de las dos es y de diga al usuario que es Positivo/Negativo.
