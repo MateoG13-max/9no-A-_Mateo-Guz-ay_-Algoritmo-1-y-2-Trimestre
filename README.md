@@ -5,7 +5,7 @@ AhorcadoBIEN: En este algoritmo logre hacer el clasico juego del aorcado en este
 
 Calculadora de puntuacion: En este algoritmo logre hacer que este calcule la puntacion por cada vez que estes utilizando para optimizar el calculo.
 
-CalcularIntereses:  En este algoritmo logre hacer que el usuario logra calcular el interes compuesto con lo que le pedi que eran algunas cosas que el algoritmo nesecitaba para realizar el calculo.
+CalcularIntereses:  En este algoritmo logre hacer que el usuario logra calcular el interes simple y compuesto con lo que le pedi que eran algunas cosas que el algoritmo nesecitaba para realizar el calculo.
 
 CalcularInteresesSimple: En este algoritmo logre hacer que el usuario logra calcular el interes simple para que este pueda aplicar, en este algoritmo le pide cosas mas sencillas por que el calculo es mas sencillo.
 
@@ -23,7 +23,7 @@ MateoGuznay 9nA ejercicio4: En este algoritmo logre hacer que cuando ingresen un
 
 MateoGuznayEje7:  En este algoritmo logre hacer que el usuario pueda elegir si quiere: suma, resta, multiplicacion o divicion para que despues el algortimo le pida 2 numeros para que le aplique la operacion elegida. 
 
-
+MateoGuznayEje8:  En este algoritmo logre hacer que se pueda calcular el interes simple y la capital inicial haciendo que el proceso sea rapido para que el usuario solo poniendo la informacion requerida pueda sacar el interes simple.
 
 
 
