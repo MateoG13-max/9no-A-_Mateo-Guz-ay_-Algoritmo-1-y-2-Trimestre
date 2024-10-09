@@ -31,6 +31,6 @@ Rompecabezas_letras: En este algoritmo logre hacer un clasico juego que todos he
 
 Tres en raya: En este algoritmo logre hacer el clasico juego de tres en raya en este puedes jugar tal y como se hace sin un dispositivo movil tomando turnos.
 
-
+ejecicio2 Mateo 9no A: En este algoritmo logre hacer que el usuario pueda ingresar 3 numeros y estos se suman, restan y se multiplican para sacer la multiplicacion de los 3, la resta y la suma.
 
 
