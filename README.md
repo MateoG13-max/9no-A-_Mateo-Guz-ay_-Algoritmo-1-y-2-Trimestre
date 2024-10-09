@@ -27,7 +27,7 @@ MateoGuznayEje8:  En este algoritmo logre hacer que se pueda calcular el interes
 
 MateoGuznayeje6:  En este algoritmo logre hacer que el usuario pueda dividir dos numeros a su eleccion.
 
-
+Rompecabezas_letras: En este algoritmo logre hacer un clasico juego que todos hemos jugado en este el algoritmo escoge un numero al hazar y te pide que lo adivines. 
 
 
 
