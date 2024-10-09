@@ -9,4 +9,6 @@ CalcularIntereses:  En este algoritmo logre hacer que el usuario logra calcular 
 
 CalcularInteresesSimple: En este algoritmo logre hacer que el usuario logra calcular el interes simple para que este pueda aplicar, en este algoritmo le pide cosas mas sencillas por que el calculo es mas sencillo.
 
+Dados: En este algoritmo logre hacer que se muestre en la pantalla un semi dibujo de un dado, en este puede caer de diferentes maneraas haciendo que el numero que salga sea alatorio.
+
 Ejercicio 11-Mateo Alex Guzñay Proaño 9noA: En este algoritmo logre hacer que cuando el usuario ingrese un numero el codigo detecte por si esta en el rango de 10-20.
