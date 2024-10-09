@@ -7,4 +7,6 @@ Calculadora de puntuacion: En este algoritmo logre hacer que este calcule la pun
 
 CalcularIntereses:  En este algoritmo logre hacer que el usuario logra calcular el interes compuesto con lo que le pedi que eran algunas cosas que el algoritmo nesecitaba para realizar el calculo.
 
+CalcularInteresesSimple: En este algoritmo logre hacer que el usuario logra calcular el interes simple para que este pueda aplicar, en este algoritmo le pide cosas mas sencillas por que el calculo es mas sencillo.
+
 Ejercicio 11-Mateo Alex Guzñay Proaño 9noA: En este algoritmo logre hacer que cuando el usuario ingrese un numero el codigo detecte por si esta en el rango de 10-20.
