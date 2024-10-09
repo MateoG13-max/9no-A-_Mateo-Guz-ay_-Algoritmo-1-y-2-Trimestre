@@ -29,7 +29,7 @@ MateoGuznayeje6:  En este algoritmo logre hacer que el usuario pueda dividir dos
 
 Rompecabezas_letras: En este algoritmo logre hacer un clasico juego que todos hemos jugado en este el algoritmo escoge un numero al hazar y te pide que lo adivines. 
 
-
+Tres en raya: En este algoritmo logre hacer el clasico juego de tres en raya en este puedes jugar tal y como se hace sin un dispositivo movil tomando turnos.
 
 
 
