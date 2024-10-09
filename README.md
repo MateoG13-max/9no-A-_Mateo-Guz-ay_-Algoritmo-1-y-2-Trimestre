@@ -25,7 +25,7 @@ MateoGuznayEje7:  En este algoritmo logre hacer que el usuario pueda elegir si q
 
 MateoGuznayEje8:  En este algoritmo logre hacer que se pueda calcular el interes simple y la capital inicial haciendo que el proceso sea rapido para que el usuario solo poniendo la informacion requerida pueda sacar el interes simple.
 
-
+MateoGuznayeje6:  En este algoritmo logre hacer que el usuario pueda dividir dos numeros a su eleccion.
 
 
 
