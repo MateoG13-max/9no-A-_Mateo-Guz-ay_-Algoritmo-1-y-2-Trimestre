@@ -14,3 +14,7 @@ Dados: En este algoritmo logre hacer que se muestre en la pantalla un semi dibuj
 Ejercicio 11-Mateo Alex Guzñay Proaño 9noA: En este algoritmo logre hacer que cuando el usuario ingrese un numero el codigo detecte por si esta en el rango de 10-20.
 
 Ejercicio5 Mateo 9no A: En este algoritmo logre hacer que cuando el usuario ingrese un numero puede ser positivo como negativo, el algoritmo detecte cual de las dos es y de diga al usuario que es Positivo/Negativo.
+
+Juego_VidaConway: En este algoritmo logre hacer el clasico juego que a muhos le parece interesante pero es mucha extrategia. 
+
+
