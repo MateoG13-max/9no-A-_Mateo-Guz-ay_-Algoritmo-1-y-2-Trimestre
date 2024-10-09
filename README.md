@@ -36,4 +36,3 @@ ejecicio2 Mateo 9no A: En este algoritmo logre hacer que el usuario pueda ingres
 ejercicio1 Mateo Guzñay 9no A: En este algoritmo logre hacer que el usuario pueda engresar 2 numeros y que estos se sumen. 
 
 ejercicio3 Mateo 9no A: En este algoritmo logre hacer que podamos saber cual es el promedio de notas de un estudiante y saber por si se quedo de año, se quedo supletorio o paso directo, todo esto solo pidiendo las notas de los examenes.
-
