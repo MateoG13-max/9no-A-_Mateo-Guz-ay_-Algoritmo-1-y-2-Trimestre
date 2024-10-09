@@ -20,3 +20,17 @@ Juego_VidaConway: En este algoritmo logre hacer el clasico juego que a muhos le 
 MateoG: En este algoritmo logre hacer que cuando ingresen 3 numeros el algoritmo pueda detectar cual es el mayor, el del medio y el menor. 
 
 MateoGuznay 9nA ejercicio4: En este algoritmo logre hacer que cuando ingresen un numero este algoritmo pueda ver si es par o impar.
+
+MateoGuznayEje7:  En este algoritmo logre hacer que el usuario pueda elegir si quiere: suma, resta, multiplicacion o divicion para que despues el algortimo le pida 2 numeros para que le aplique la operacion elegida. 
+
+
+
+
+
+
+
+
+
+
+
+
