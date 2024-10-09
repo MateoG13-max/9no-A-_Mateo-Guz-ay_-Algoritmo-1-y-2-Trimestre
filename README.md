@@ -33,4 +33,4 @@ Tres en raya: En este algoritmo logre hacer el clasico juego de tres en raya en 
 
 ejecicio2 Mateo 9no A: En este algoritmo logre hacer que el usuario pueda ingresar 3 numeros y estos se suman, restan y se multiplican para sacer la multiplicacion de los 3, la resta y la suma.
 
-
+ejercicio1 Mateo Guzñay 9no A: En este algoritmo logre hacer que el usuario pueda engresar 2 numeros y que estos se sumen. 
