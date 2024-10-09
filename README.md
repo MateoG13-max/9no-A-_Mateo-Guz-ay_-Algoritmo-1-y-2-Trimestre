@@ -5,4 +5,6 @@ AhorcadoBIEN: En este algoritmo logre hacer el clasico juego del aorcado en este
 
 Calculadora de puntuacion: En este algoritmo logre hacer que este calcule la puntacion por cada vez que estes utilizando para optimizar el calculo.
 
+CalcularIntereses:  En este algoritmo logre hacer que el usuario logra calcular el interes compuesto con lo que le pedi que eran algunas cosas que el algoritmo nesecitaba para realizar el calculo.
+
 Ejercicio 11-Mateo Alex Guzñay Proaño 9noA: En este algoritmo logre hacer que cuando el usuario ingrese un numero el codigo detecte por si esta en el rango de 10-20.
