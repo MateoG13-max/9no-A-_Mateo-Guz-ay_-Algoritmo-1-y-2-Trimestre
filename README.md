@@ -17,4 +17,4 @@ Ejercicio5 Mateo 9no A: En este algoritmo logre hacer que cuando el usuario ingr
 
 Juego_VidaConway: En este algoritmo logre hacer el clasico juego que a muhos le parece interesante pero es mucha extrategia. 
 
-
+MateoG: En este algoritmo logre hacer que cuando ingresen 3 numeros el algoritmo pueda detectar cual es el mayor, el del medio y el menor. 
